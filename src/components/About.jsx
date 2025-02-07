@@ -32,7 +32,16 @@ const About = () => {
             </div>
             <div>
               <p>
-                A software developer with experience software automation and data enginnering...
+                I am a software engineer with experience in software testing, 
+                automation, and hands-on hardware integration. 
+                I have developed and integrated Python and Bash test cases with 
+                Jenkins to verify broadband and modem performance in 
+                telecommunication systems. 
+                I've worked extensively with Raspberry Pi, electronic 
+                speed controllers, and lab equipment, handling wiring, 
+                and hardware modifications. My expertise also includes networking, 
+                fiber optics, and system imaging, ensuring seamless hardware and 
+                software functionality.
               </p>
             </div>
           </div>

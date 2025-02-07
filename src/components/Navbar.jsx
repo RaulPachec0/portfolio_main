@@ -28,7 +28,7 @@ const Navbar = () => {
     <div className='fixed w-full h-20 flex justify-between items-center px-4 bg-slate-900 text-gray-300'>
       {/* Your logo or brand name */}
       <div>
-        <h1 className='font-thin text-2xl italic font-serif'>RDP3</h1>
+        <h1 className='font-thin text-2xl italic font-serif'>Raul Diaz Pacheco III</h1>
       </div>
 
       {/* Desktop Menu - hidden on mobile, flex on medium screens and up */}

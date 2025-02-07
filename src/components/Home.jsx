@@ -22,9 +22,10 @@ const Home = () => {
            {/* I have 4 years of experience in graphics design and web development.
            Currently, I love to work on web application using technologies like
            React, Tailwind, Next.js and Mongodb. */}
-           I have 2 years of experience as a software engineer. Currently,
-           I enjoy working on data engineering and software automation using
-           technologies like Pandas, Numpy, Matplotlib and BeautifulSoup.
+           I am a veteran and software engineer with experience in automation, 
+           hardware integration, and networking. I’ve developed test solutions 
+           for telecom verification and worked hands-on with electronics, 
+           lab equipment, and system imaging.
          </p>
          {/* About Me button with hover effect */}
          <div>
